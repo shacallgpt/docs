@@ -14,7 +14,10 @@
         "group": "Documentação",
         "pages": [
           "index",
-          "quickstart"
+          "quickstart",
+          "downloads",
+          "instalacao",
+          "como-usar"
         ]
       }
     ]
