@@ -8,15 +8,17 @@
     "dark": "#1E40AF"
   },
   "favicon": "/favicon.svg",
-  "navigation": [
-    {
-      "group": "Documentação",
-      "pages": [
-        "index",
-        "quickstart"
-      ]
-    }
-  ],
+  "navigation": {
+    "groups": [
+      {
+        "group": "Documentação",
+        "pages": [
+          "index",
+          "quickstart"
+        ]
+      }
+    ]
+  },
   "logo": {
     "light": "https://i.imgur.com/nZtn4JA.png",
     "dark": "https://i.imgur.com/nZtn4JA.png"
@@ -34,11 +36,8 @@
    ]
   },
   "footer": {
-    "links": [
-      {
-        "label": "Discord",
-        "href": "https://discord.gg/purityofc"
-      }
-    ]
+    "socials": {
+      "discord": "https://discord.gg/purityofc"
+    }
   }
 }
