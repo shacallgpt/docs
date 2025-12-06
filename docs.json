@@ -23,6 +23,14 @@
     "light": "https://i.imgur.com/nZtn4JA.png",
     "dark": "https://i.imgur.com/nZtn4JA.png"
   },
+  "navbar": {
+    "links": [
+      {
+        "label": "Discord",
+        "href": "https://discord.gg/purityofc"
+      }
+    ]
+  },
   "contextual": {
     "options": [
      "copy",
@@ -34,10 +42,5 @@
      "cursor",
      "vscode"
    ]
-  },
-  "footer": {
-    "socials": {
-      "discord": "https://discord.gg/purityofc"
-    }
   }
 }
