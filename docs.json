@@ -9,17 +9,12 @@
   },
   "favicon": "https://i.imgur.com/nZtn4JA.png",
   "navigation": {
-    "groups": [
+    "pages": [
       {
         "group": "Documentação",
-        "pages": [
-          "index",
-          "quickstart",
-          "downloads",
-          "instalacao",
-          "como-usar"
-        ]
-      }
+        "pages": []
+      },
+      "dayz-tutorial"
     ]
   },
   "logo": {
